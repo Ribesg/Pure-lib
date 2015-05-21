@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.minecraft.server</groupId>
+  <artifactId>a0_2_8</artifactId>
+  <versioning>
+    <release>a0.2.8</release>
+    <versions>
+      <version>a0.2.8</version>
+    </versions>
+    <lastUpdated>20150515103052</lastUpdated>
+  </versioning>
+</metadata>
